@@ -59,3 +59,7 @@ If you have a sensor session running, and once you have enabled the Dexcom integ
       target:
         entity_id: light.kitchen
 ```
+
+
+## NOTE
+After speaking with Dexcom support with the useage of G7 the account needs to be a email login not a phone number, if you use a phone number add +1 to the phone number.
